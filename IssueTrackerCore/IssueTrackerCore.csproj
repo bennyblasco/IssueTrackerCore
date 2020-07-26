@@ -24,6 +24,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc" Version="3.1.3" />
+    <PackageReference Include="MvcGridScafoldingTemplate" Version="0.0.10" />
   </ItemGroup>
 
 </Project>
